@@ -1,0 +1,101 @@
+﻿@model IEnumerable<Models.Poliza>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NombreCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdCliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaNacimiento)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FechaPoliza)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Coberturas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ValorMaximo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NombrePoliza)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CiudadResidencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DireccionResidencia)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PlacaAutomotor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ModeloAutomotor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Inspeccion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombreCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdCliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaNacimiento)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FechaPoliza)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Coberturas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ValorMaximo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NombrePoliza)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CiudadResidencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DireccionResidencia)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PlacaAutomotor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ModeloAutomotor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Inspeccion)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.NumeroPoliza }) |
+                @Html.ActionLink("Details", "Details", new { id=item.NumeroPoliza }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.NumeroPoliza })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

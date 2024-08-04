@@ -1,0 +1,13 @@
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\Implementaciones.dll
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\Implementaciones.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\Interface.dll
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\Models.dll
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\BaseDatos.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\Interface.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\bin\Debug\Models.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\obj\Debug\Implementaciones.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\obj\Debug\Implementaciones.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\obj\Debug\Implemen.A9AE8BFC.Up2Date
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\obj\Debug\Implementaciones.dll
+C:\Users\JHON\source\repos\CrudPolizas\Implementaciones\obj\Debug\Implementaciones.pdb

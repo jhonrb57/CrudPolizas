@@ -1,0 +1,6 @@
+C:\Users\JHON\source\repos\CrudPolizas\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\CrudPolizas\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\JHON\source\repos\CrudPolizas\BaseDatos\obj\Debug\BaseDatos.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\CrudPolizas\BaseDatos\obj\Debug\BaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\CrudPolizas\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\CrudPolizas\BaseDatos\obj\Debug\BaseDatos.pdb

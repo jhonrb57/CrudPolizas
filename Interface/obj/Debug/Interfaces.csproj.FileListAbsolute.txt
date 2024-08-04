@@ -1,0 +1,11 @@
+C:\Users\JHON\source\repos\CrudPolizas\Interface\bin\Debug\Interface.dll
+C:\Users\JHON\source\repos\CrudPolizas\Interface\bin\Debug\Interface.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Interface\bin\Debug\BaseDatos.dll
+C:\Users\JHON\source\repos\CrudPolizas\Interface\bin\Debug\Models.dll
+C:\Users\JHON\source\repos\CrudPolizas\Interface\bin\Debug\BaseDatos.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Interface\bin\Debug\Models.pdb
+C:\Users\JHON\source\repos\CrudPolizas\Interface\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+C:\Users\JHON\source\repos\CrudPolizas\Interface\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\JHON\source\repos\CrudPolizas\Interface\obj\Debug\Interfaces.csproj.Up2Date
+C:\Users\JHON\source\repos\CrudPolizas\Interface\obj\Debug\Interface.dll
+C:\Users\JHON\source\repos\CrudPolizas\Interface\obj\Debug\Interface.pdb
