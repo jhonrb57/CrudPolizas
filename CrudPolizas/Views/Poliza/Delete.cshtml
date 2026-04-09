@@ -1,12 +1,12 @@
 ﻿@model Models.Poliza
 
 @{
-    ViewData["Title"] = "Delete";
+    ViewData["Title"] = "Eliminar";
 }
 
-<h1>Delete</h1>
+<h1>Eliminar</h1>
 
-<h3>Are you sure you want to delete this?</h3>
+<h3>¿Seguro(a) que quiere eliminar el registro?</h3>
 <div>
     <h4>Poliza</h4>
     <hr />
@@ -92,7 +92,7 @@
             @Html.DisplayFor(model => model.Inspeccion)
         </dd>
     </dl>
-        <input type="submit" value="Delete" class="btn btn-danger" />
-        <a asp-action="Index">Back to List</a>
+        <input type="submit" value="Eliminar" class="btn btn-danger" />
+        <a asp-action="Index">Regresar a la Lista</a>
     </form>
 </div>

@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<Models.Poliza>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Lista de Clientes";
 }
 
-<h1>Index</h1>
+<h1>Lista de Clientes</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Crear Nuevo</a>
 </p>
 <table class="table">
     <thead>
@@ -91,9 +91,9 @@
                 @Html.DisplayFor(modelItem => item.Inspeccion)
             </td>
             <td>
-                @Html.ActionLink("Edit", "Edit", new { id=item.NumeroPoliza }) |
-                @Html.ActionLink("Details", "Details", new { id=item.NumeroPoliza }) |
-                @Html.ActionLink("Delete", "Delete", new { id = item.NumeroPoliza })
+                @Html.ActionLink("Editar", "Edit", new { id=item.NumeroPoliza }) |
+                @Html.ActionLink("Detalles", "Details", new { id=item.NumeroPoliza }) |
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.NumeroPoliza })
             </td>
         </tr>
 }

@@ -28,6 +28,7 @@ namespace Models
         public string PlacaAutomotor { get; set; }
         [Display(Name = "Modelo")]
         public string ModeloAutomotor { get; set; }
+        [Display(Name = "Inspección")]
         public char Inspeccion { get; set; }
     }
 }
