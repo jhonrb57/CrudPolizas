@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CrudPolizas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1748d9a67d328a36231c533948227a88eb699fd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddf75c3ed0f0bcf96304983773686898714c2e21")]
 [assembly: System.Reflection.AssemblyProductAttribute("CrudPolizas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CrudPolizas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
